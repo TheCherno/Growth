@@ -156,7 +156,7 @@ public class Level {
 					speedUpMessage();
 				}
 				tier = 1;
-				cameraSpeed = 10;
+				cameraSpeed = 3;
 			}
 			
 			for (int i = 0; i < cameraSpeed; i++) {
